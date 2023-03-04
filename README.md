@@ -9,8 +9,7 @@
 
 - ⚡ Fun fact **the first hard drive was created by IBM in 1956? It weighed over a ton and could only store 5 MB of data! Today, hard drives can store terabytes of data and can fit in the palm of your hand.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
